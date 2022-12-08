@@ -7,7 +7,7 @@
   "dependencies": {
     "@romcal/calendar.france": "file:../../dist/bundles/france",
     "@romcal/calendar.general-roman": "file:../../dist/bundles/general-roman",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "romcal": "file:../../"
   },
   "license": "MIT"
